@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krystaldolphin
 - 👀 I’m interested in ML , Deep Learning and Open Source
 - 🌱 I’m currently learning Java 
-- 📫 How to reach me ...sec20ec187@sairamtap.edu.in
+- 📫 How to reach me ...ksshree03@gmail.com
 -
 
 <!---
