@@ -70,14 +70,5 @@ Hi there, my name is Shreya Shree. I am a sophomore undergraduate student pursui
 
 
 
-## 📚 Repositories
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=kshreyashreee&repo=le_gardien)](https://github.com/kshreyashreee/le_gardien)
-&nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=kshreyashreee&repo=Magnetic_levitation)](https://github.com/kshreyashreee/Magnetic_levitation)
-&nbsp; &nbsp;
-
-
-
 
 
