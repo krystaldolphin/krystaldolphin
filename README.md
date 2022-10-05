@@ -52,23 +52,4 @@ Hi there, my name is Shreya Shree. I am a sophomore undergraduate student pursui
 
 
 
-## 📊 GitHub Stats  
-
- <table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=kshreyashreee&hide_border=true&show_icons=true" alt="Shreya's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshreyashreee&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-</table>
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kshreyashreee)](https://git.io/streak-stats) 
-
-
-
-
 
