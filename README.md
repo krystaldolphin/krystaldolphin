@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Shreya Shree. I am a sophomore undergraduate student pursuing my Bachelors in Electronics and Communication Engineering . My areas of interest are  Control Systems, Signal Processing and Machine learning. You can check out my [CV](https://drive.google.com/file/d/1G77Euw7qYPhCh0AOZVB7oxDFbrF_q8gA/view?usp=sharing) to get know about me and my projects in brief .
+Hi there, my name is Shreya Shree. I am a junior undergraduate student pursuing my Bachelors in Electronics and Communication Engineering . My areas of interest are  Control Systems, Software Development and Machine learning. You can check out my [CV](https://drive.google.com/file/d/1G77Euw7qYPhCh0AOZVB7oxDFbrF_q8gA/view?usp=sharing) to get know about me and my projects in brief .
 
 
 ## 📇 Social & Contact
