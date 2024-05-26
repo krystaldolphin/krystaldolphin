@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://github.com/kshreyashreee/kshreyashreee/blob/main/gifs/ShreyaShree.gif" alt="Shreya Shree" width="200" />
-</div>
 
-# Hi there! I'm Shreya Shree 👋
+# Hi there! I'm Shreya Shree <img src="https://raw.githubusercontent.com/kshreyashreee/kshreyashreee/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> 
 
 I'm a passionate and curious senior undergraduate student pursuing my Bachelor's in Electronics and Communication Engineering. 
 
@@ -58,7 +55,7 @@ I'm a passionate and curious senior undergraduate student pursuing my Bachelor's
 - Email: [notshreyashree@gmail.com](mailto:notshreyashree@gmail.com)
 - LinkedIn: [kshreyashree](https://www.linkedin.com/in/kshreyashree)
 - GitHub: [kshreyashreee](https://github.com/kshreyashreee)
-- Hashnode : [Profile](https://shreyashree.hashnode.dev/)
+- Hashnode : [Blog](https://shreyashree.hashnode.dev/)
   <!-- - GeeksForGeeks : [Profile](https://www.geeksforgeeks.org/user/kshreyashree/) ->
 <!---- - LeetCode: [Profile](https://leetcode.com/u/shreyashree12/) ->
 <!-- - CodingNinjas: [Profile]() ->
