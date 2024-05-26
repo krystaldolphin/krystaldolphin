@@ -5,13 +5,22 @@ I'm a passionate and curious senior undergraduate student pursuing my Bachelor's
 
 ## 📚 Education
 - **Bachelor of Engineering** in Electronics and Communication (ECE) from Sri Sai Ram Engineering College, Chennai (Nov 2020 - June 2024)
-  - CGPA: 8.99/10.00 (as of 8th Semester)
 
 ## 💼 Internships
 - **Innovate 4 Defence (I4D) Internship 2023** - Bengaluru, Karnataka (June 2023 - July 2023)
-  - [Details](https://drive.google.com/file/d/13R9wb7R0AXFI-1JnNDJXRdtl2H4B3dNq/view?usp=sharing)
+  - Selected as an intern through I4D Internship program 2023 conducted by Innovation for Defence Excellence (iDEX)
+    , DIO under the Ministry of Defence , Government of India
+  - Assigned to a DISC Winner Startup based on Bengaluru for a project on SoC interfacing and Linux APIs using
+    Xilinx PYNQ-Z2 board.
+  - [Details](https://www.linkedin.com/feed/update/urn:li:activity:7165157705710551040/)
 - **Undergraduate Summer Intern** - Madras Institute of Technology, Anna University (Jun 2022 - Aug 2022)
-  - [Details](https://drive.google.com/file/d/1JKbzYPKi7KvvJMcL8CNrAngUTHoobgZM/view?usp=sharing)
+  - Worked with Prof. Dr.N.Pappa on the project ”Study and design of advanced controller for Magnetic Levitation
+    system (Feedback Instruments, USA)” .
+  - Application of various Control Schemes such as Fuzzy Logic, simulating results with MATLAB , comparison and
+    verification of results.
+  - Development of a new controller and the scope for implementation of a Neural Network Controller(Genetic
+    Algorithm) was explored
+  - [Details](https://www.linkedin.com/feed/update/urn:li:activity:7165206888505073664/)
 
 ## 🏆 Achievements
 - **Digital Defenders Cybersecurity CTF Competition 2023**
