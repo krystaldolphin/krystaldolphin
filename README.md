@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kshreyashreee/kshreyashreee/main/avatar-(ProfilePictureMaker.com).png" alt="Shreya Shree" width="200" />
+  <img src="https://github.com/kshreyashreee/kshreyashreee/blob/main/gifs/ShreyaShree.gif" alt="Shreya Shree" width="200" />
 </div>
 
 # Hi there! I'm Shreya Shree 👋
