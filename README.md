@@ -1,7 +1,7 @@
 
 # Hi there! I'm Shreya Shree <img src="https://raw.githubusercontent.com/kshreyashreee/kshreyashreee/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> 
 
-I'm a passionate and curious senior undergraduate student pursuing my Bachelor's in Electronics and Communication Engineering. 
+I'm a passionate and curious electronics graduate! 
 
 ## 📚 Education
 - **Bachelor of Engineering** in Electronics and Communication (ECE) from Sri Sai Ram Engineering College, Chennai (Nov 2020 - June 2024)
